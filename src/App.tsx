@@ -217,7 +217,7 @@ function App() {
               <Building2 className="h-8 w-8 text-blue-400" />
               <span className="ml-2 text-2xl font-bold">PropSouthIndia</span>
             </div>
-            <div className="text-gray-400">© 2024 PropSouthIndia. All rights reserved.</div>
+            <div className="text-gray-400">© 2025 PropSouthIndia. All rights reserved.</div>
           </div>
         </div>
       </footer>
